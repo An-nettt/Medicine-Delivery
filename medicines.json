@@ -1,0 +1,1992 @@
+{
+  "page": {
+    "total": 8,
+    "current": 1
+  },
+  "result": [
+    {
+      "medicament": {
+        "id": 10513,
+        "title": "HEXASPRAY",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "30 G",
+      "package": {
+        "id": 5,
+        "title": "ШТ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 7590,
+        "title": "L-ЛІЗИНУ ЕСЦИНАТ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН'ЄКЦІЙ 0,1% 5,0",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 52289,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 7590,
+        "title": "L-ЛІЗИНУ ЕСЦИНАТ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН'ЄКЦІЙ 0,1% 5,0",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 880
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 14,
+        "title": "АБРОЛ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "СИРОП, 15 МГ/5 МЛ, ПО 100 МЛ У ФЛАКОНІ З ПОЛІЕТИЛЕНУ",
+      "package": {
+        "id": 2,
+        "title": "ФЛ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 14,
+        "title": "АБРОЛ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "СИРОП, 15 МГ/5 МЛ, ПО 100 МЛ У ФЛАКОНІ З ПОЛІЕТИЛЕНУ",
+      "package": {
+        "id": 2,
+        "title": "ФЛ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 52289,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 8504,
+        "title": "АДРЕНАЛІН",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН'ЄКЦІЙ, 1,8 МГ/МЛ, ПО 1 МЛ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 52289,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 8504,
+        "title": "АДРЕНАЛІН",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН'ЄКЦІЙ, 1,8 МГ/МЛ, ПО 1 МЛ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 20
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 89,
+        "title": "АЗИМЕД",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "ТАБЛЕТКИ, ВКРИТІ ПЛІВКОВОЮ ОБОЛОНКОЮ, ПО 500 МГ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 52289,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 111,
+        "title": "АЗИЦИН",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "КАПСУЛИ ПО 500 МГ ПО 6 КАПСУЛ У КОНТУРНІЙ ЧАРУНКОВІЙ УПАКОВЦІ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 1200
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 149,
+        "title": "АКТИЛІЗЕ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "ЛІОФІЛІЗАТ ДЛЯ РОЗЧИНУ ДЛЯ ІНФУЗІЙ ПО 50 МГ",
+      "package": {
+        "id": 2,
+        "title": "ФЛ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 149,
+        "title": "АКТИЛІЗЕ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "ЛІОФІЛІЗАТ ДЛЯ РОЗЧИНУ ДЛЯ ІНФУЗІЙ ПО 50 МГ",
+      "package": {
+        "id": 2,
+        "title": "ФЛ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 8
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 217,
+        "title": "АЛОПУРИНОЛ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "300 МГ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 510
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 244,
+        "title": "АЛЬБЕНДАЗОЛ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "400МГ",
+      "package": {
+        "id": 53,
+        "title": "КАПС"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 300
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 244,
+        "title": "АЛЬБЕНДАЗОЛ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "ТАБЛЕТКИ , 400МГ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 55424,
+          "value": 200
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 10609,
+        "title": "АЛЬБУВЕН",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІНФУЗІЙ, 20 % ПО 100 МЛ У ФЛАКОНІ",
+      "package": {
+        "id": 2,
+        "title": "ФЛ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 52289,
+          "value": 118
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 10226,
+        "title": "АМБІТ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН'ЄКЦІЙ, 30 МГ/МЛ, ПО 1 МЛ В АМПУЛІ, ПО 10 АМПУЛ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 400
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 313,
+        "title": "АМІАКУ РОЗЧИН",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ЗОВНІШНЬОГО ЗАСТОСУВАННЯ 10 % ПО 40 МЛ",
+      "package": {
+        "id": 2,
+        "title": "ФЛ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 52289,
+          "value": 0
+        },
+        {
+          "hospital_category_id": 46120,
+          "value": 38
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 322,
+        "title": "АМІКАЦИД",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІНЄКЦІЙ 250МГ/МЛ ПО 4МЛ",
+      "package": {
+        "id": 2,
+        "title": "ФЛ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 324,
+        "title": "АМІКАЦИНУ СУЛЬФАТ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН'ЄКЦІЙ 250 МГ/МЛ: ПО  4 МЛ В АМПУЛІ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 329,
+        "title": "АМІНАЗИН",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІНЄКЦІЙ25МГ/МЛ ПО 2МЛ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 337,
+        "title": "АМІНОКАПРОНОВА КИСЛОТА",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІНФУЗІЙ ПО 100 МЛ",
+      "package": {
+        "id": 2,
+        "title": "ФЛ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 52289,
+          "value": 563
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 337,
+        "title": "АМІНОКАПРОНОВА КИСЛОТА",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІНФУЗІЙ ПО 100 МЛ",
+      "package": {
+        "id": 2,
+        "title": "ФЛ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 337,
+        "title": "АМІНОКАПРОНОВА КИСЛОТА",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІНФУЗІЙ ПО 100 МЛ",
+      "package": {
+        "id": 2,
+        "title": "ФЛ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 6
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 350,
+        "title": "АМІТРИПТИЛІН",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "ТАБЛЕТКИ, ВКРИТІ ОБОЛОНКОЮ, ПО 25 МГ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 354,
+        "title": "АМІЦИЛ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "ЛІОФІЛІЗАТ ДЛЯ РОЗЧИНУ ДЛЯ ІНЄКЦІЙ ПО 1,0 Г",
+      "package": {
+        "id": 2,
+        "title": "ФЛ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 366,
+        "title": "АМЛОДИПІН",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "5 МГ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 366,
+        "title": "АМЛОДИПІН",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "5 МГ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 52289,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 391,
+        "title": "АМОКСИЛ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "500 МГ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 52289,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 390,
+        "title": "АМОКСИЛ-К 625",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "ТАБЛЕТКИ, ВКРИТІ ПЛІВКОВОЮ ОБОЛОНКОЮ, ПО 500 МГ/125 МГ ПО 7 ТАБЛЕТОК У БЛІСТЕРІ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 10528,
+        "title": "АМОКСИЦИКЛІН",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "ТАБЛЕТКИ , 250МГ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 55424,
+          "value": 3000
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 10528,
+        "title": "АМОКСИЦИКЛІН",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "ТАБЛЕТКИ , 250МГ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 1800
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 418,
+        "title": "АНАЛЬГІН",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "0,5Г",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 240
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 418,
+        "title": "АНАЛЬГІН",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН'ЄКЦІЙ ПО 2 МЛ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 880
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 418,
+        "title": "АНАЛЬГІН",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН’ЄКЦІЙ, 500 МГ ПО 2 МЛ В АМПУЛАХ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 500
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 418,
+        "title": "АНАЛЬГІН",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "500 МГ/МЛ ПО 2 МЛ В АМП.",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 4800
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 424,
+        "title": "АНАПРИЛІН-ЗДОРОВ'Я",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "40МГ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 9636,
+        "title": "АПЛІКАТОР",
+        "type": "1"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "СТЕРИЛЬНИЙ З ПЛАСТИКОВИМ СТРИЖНЕМ",
+      "package": {
+        "id": 5,
+        "title": "ШТ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 55424,
+          "value": 72
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 9636,
+        "title": "АПЛІКАТОР",
+        "type": "1"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "СТЕРИЛЬНИЙ З ПЛАСТИКОВИМ СТРИЖНЕМ",
+      "package": {
+        "id": 5,
+        "title": "ШТ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 200
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 10438,
+        "title": "АПТЕЧКА",
+        "type": "1"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "",
+      "package": {
+        "id": 5,
+        "title": "ШТ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 120
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 9515,
+        "title": "АРГІТЕК",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІНФУЗІЙ, 8 МГ/МЛ ПО 250 МЛ У ФЛАКОНІ",
+      "package": {
+        "id": 2,
+        "title": "ФЛ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 87
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 510,
+        "title": "АРИТМІЛ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН'ЄКЦІЙ, 50 МГ/МЛ ПО 3 МЛ В АМПУЛІ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 510,
+        "title": "АРИТМІЛ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН'ЄКЦІЙ, 50 МГ/МЛ ПО 3 МЛ В АМПУЛІ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 235
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 517,
+        "title": "АРІС",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "ПОРОШОК ДЛЯ РОЗЧИНУ ДЛЯ ІНФУЗІЙ ПО 1 Г",
+      "package": {
+        "id": 2,
+        "title": "ФЛ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 561,
+        "title": "АСАКОЛ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "ТАБЛЕТКИ, ВКРИТІ ОБОЛОНКОЮ, КИШКОВОРОЗЧИННІ ПО 800 МГ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 564,
+        "title": "АСИБРОКС",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "600 МГ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 52289,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 585,
+        "title": "АСПАРКАМ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН'ЄКЦІЙ 10 МЛ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 585,
+        "title": "АСПАРКАМ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН'ЄКЦІЙ 10 МЛ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 1610
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 585,
+        "title": "АСПАРКАМ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН'ЄКЦІЙ 10 МЛ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 52289,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 615,
+        "title": "АТЕРОКАРД",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "75 МГ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 720
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 619,
+        "title": "АТОРВАКОР",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "ТАБЛЕТКИ, ВКРИТІ ПЛІВКОВОЮ ОБОЛОНКОЮ, ПО 20 МГ, ПО 10 ТАБЛЕТОК У БЛІСТЕРІ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 1410
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 10456,
+        "title": "АТРАКСАН",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН'ЄКЦІЙ 100 МГ/МЛ, ПО 5 МЛ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 635,
+        "title": "АТРАКУРІУМ-НОВО",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН'ЄКЦІЙ, 10 МГ/МЛ, ПО 5 МЛ",
+      "package": {
+        "id": 2,
+        "title": "ФЛ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 52289,
+          "value": 190
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 635,
+        "title": "АТРАКУРІУМ-НОВО",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН'ЄКЦІЙ, 10 МГ/МЛ, ПО 5 МЛ",
+      "package": {
+        "id": 2,
+        "title": "ФЛ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 52289,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 641,
+        "title": "АТРОПІНУ СУЛЬФАТ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН'ЄКЦІЙ, 1 МГ/МЛ ПО 1 МЛ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 52289,
+          "value": 30
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 641,
+        "title": "АТРОПІНУ СУЛЬФАТ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН'ЄКЦІЙ, 1 МГ/МЛ ПО 1 МЛ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 641,
+        "title": "АТРОПІНУ СУЛЬФАТ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН'ЄКЦІЙ, 1 МГ/МЛ ПО 1 МЛ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 930
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 641,
+        "title": "АТРОПІНУ СУЛЬФАТ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН'ЄКЦІЙ, 1 МГ/МЛ ПО 1 МЛ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 52289,
+          "value": 70
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 641,
+        "title": "АТРОПІНУ СУЛЬФАТ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН'ЄКЦІЙ, 1 МГ/МЛ ПО 1 МЛ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 641,
+        "title": "АТРОПІНУ СУЛЬФАТ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН'ЄКЦІЙ, 1 МГ/МЛ ПО 1 МЛ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 641,
+        "title": "АТРОПІНУ СУЛЬФАТ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН'ЄКЦІЙ, 1 МГ/МЛ ПО 1 МЛ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 55424,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 7559,
+        "title": "АХД-2000 ЕКСПРЕС",
+        "type": "1"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "5 Л",
+      "package": {
+        "id": 11,
+        "title": "Л"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 52289,
+          "value": 565
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 7559,
+        "title": "АХД-2000 ЕКСПРЕС",
+        "type": "1"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "5 Л",
+      "package": {
+        "id": 11,
+        "title": "Л"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 676,
+        "title": "АЦЕКОР КАРДІО",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "ТАБЛЕТКИ КИШКОВОРОЗЧИННІ ПО 100 МГ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 685,
+        "title": "АЦЕТИЛСАЛІЦИЛОВА КИСЛОТА",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "ТАБЛЕТКИ ПО 0,5 Г ПО 10 ТАБЛЕТОК У СТРИПІ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 685,
+        "title": "АЦЕТИЛСАЛІЦИЛОВА КИСЛОТА",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "ТАБЛЕТКИ ПО 0,5 Г ПО 10 ТАБЛЕТОК У СТРИПІ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 160
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 685,
+        "title": "АЦЕТИЛСАЛІЦИЛОВА КИСЛОТА",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "ТАБЛЕТКИ 75 МГ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 55424,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 690,
+        "title": "АЦИКЛОВІР",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "ТАБЛЕТКИ ПО 200 МГ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 1440
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 717,
+        "title": "БАКЛОФЕН",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "ТАБЛЕТКИ ПО 10 МГ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 729,
+        "title": "БАРБОВАЛ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "КРАПЛІ ОРАЛЬНІ ПО 25 МЛ У ФЛАКОНІ З ПРОБКОЮ-КРАПЕЛЬНИЦЕЮ; ПО 1 ФЛАКОНУ В ПАЧЦІ З КАРТОНУ",
+      "package": {
+        "id": 2,
+        "title": "ФЛ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 7562,
+        "title": "БАХІЛИ",
+        "type": "1"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "ОДНОРАЗ. ВИКОРИСТАННЯ З ПОЛІЕТИЛЕНУ,НЕ СТЕР. 22МКМ",
+      "package": {
+        "id": 17,
+        "title": "ПАР"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 1700
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 759,
+        "title": "БЕНЗИЛБЕНЗОАТ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "25 % 1 ЛІТР,В ФЛАК",
+      "package": {
+        "id": 2,
+        "title": "ФЛ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 1
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 759,
+        "title": "БЕНЗИЛБЕНЗОАТ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "ЕМУЛЬСІЯ НАШКІРНА, 200 МГ/Г, ПО 50 Г У ФЛАКОНІ",
+      "package": {
+        "id": 2,
+        "title": "ФЛ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 14
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 768,
+        "title": "БЕНЗОГЕКСОНІЙ-ЗДОРОВ'Я",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН’ЄКЦІЙ, 25 МГ/МЛ, ПО 1 МЛ В АМПУЛІ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 768,
+        "title": "БЕНЗОГЕКСОНІЙ-ЗДОРОВ'Я",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН’ЄКЦІЙ, 25 МГ/МЛ, ПО 1 МЛ В АМПУЛІ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 794,
+        "title": "БЕРОДУАЛ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІНГАЛЯЦІЙ ПО 10МЛ",
+      "package": {
+        "id": 2,
+        "title": "ФЛ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 8845,
+        "title": "БЕТАГІСТИН-КВ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "ТАБЛЕТКИ ПО 16 МГ ПО 10 ТАБЛЕТОК У БЛІСТЕРІ; ПО 3 БЛІСТЕРИ В ПАЧЦІ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 8845,
+        "title": "БЕТАГІСТИН-КВ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "ТАБЛЕТКИ ПО 24 МГ ПО 10 ТАБЛЕТОК У БЛІСТЕРІ; ПО 3 БЛІСТЕРИ В ПАЧЦІ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 811,
+        "title": "БЕТАЙОД-ЗДОРОВ'Я",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН, 100 МГ/МЛ  У ФЛАКОНІ",
+      "package": {
+        "id": 2,
+        "title": "ФЛ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 817,
+        "title": "БЕТАЛОК",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІН'ЄКЦІЙ 5 МЛ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 20
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 7539,
+        "title": "БИНТ",
+        "type": "1"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "16Х10 МАРЛЯ, НЕ СТЕРИЛЬНИЙ",
+      "package": {
+        "id": 5,
+        "title": "ШТ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 7539,
+        "title": "БИНТ",
+        "type": "1"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "5Х10 МАРЛЯ,  СТЕРИЛЬНИЙ",
+      "package": {
+        "id": 5,
+        "title": "ШТ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 55424,
+          "value": 200
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 7539,
+        "title": "БИНТ",
+        "type": "1"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "5Х10 МАРЛЯ, СТЕРИЛЬНИЙ",
+      "package": {
+        "id": 5,
+        "title": "ШТ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 55424,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 7539,
+        "title": "БИНТ",
+        "type": "1"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "7Х14 МАРЛЯ, НЕ СТЕРИЛЬНИЙ",
+      "package": {
+        "id": 5,
+        "title": "ШТ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 9145
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 7539,
+        "title": "БИНТ",
+        "type": "1"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "7Х14 МАРЛЯ, НЕ СТЕРИЛЬНИЙ",
+      "package": {
+        "id": 5,
+        "title": "ШТ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 52289,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 7539,
+        "title": "БИНТ",
+        "type": "1"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "7Х14 МАРЛЯ,  СТЕРИЛЬНИЙ",
+      "package": {
+        "id": 5,
+        "title": "ШТ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 55424,
+          "value": 475
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 7539,
+        "title": "БИНТ",
+        "type": "1"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "ГІПСОВИЙ,20 СМ Х 2.7 М",
+      "package": {
+        "id": 5,
+        "title": "ШТ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 7539,
+        "title": "БИНТ",
+        "type": "1"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "ЕЛАСТИЧНИЙ , 7,5СМ Х 5М",
+      "package": {
+        "id": 5,
+        "title": "ШТ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 55424,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 894,
+        "title": "БІСЕПТОЛ 480",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "КОНЦЕНТРАТ ДЛЯ ПРИГОТУВАННЯ РОЗЧИНУ ДЛЯ ІНФУЗІЙ (80 МГ+16 МГ)/МЛ, ПО 5 МЛ В АМПУЛІ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 908,
+        "title": "БІСОПРОЛ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "5 МГ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 2610
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 10139,
+        "title": "БІСОПРОЛОЛ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "10 МГ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 10139,
+        "title": "БІСОПРОЛОЛ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "5 МГ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 1140
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 10139,
+        "title": "БІСОПРОЛОЛ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "5 МГ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 10139,
+        "title": "БІСОПРОЛОЛ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "2,5 МГ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 2128
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 897,
+        "title": "БІСОПРОЛОЛ-КВ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "5 МГ",
+      "package": {
+        "id": 20,
+        "title": "ТАБ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 944,
+        "title": "БОРНА КИСЛОТА",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ЗОВНІШНЬОГО ЗАСТОСУВАННЯ, СПИРТОВИЙ 3 % ПО 25 МЛ",
+      "package": {
+        "id": 2,
+        "title": "ФЛ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 944,
+        "title": "БОРНА КИСЛОТА",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ЗОВНІШНЬОГО ЗАСТОСУВАННЯ, СПИРТОВИЙ 3 % ПО 25 МЛ",
+      "package": {
+        "id": 2,
+        "title": "ФЛ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 958,
+        "title": "БРАКСОН",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ІНЄКЦІЙ 40МГ/МЛ ПО 2МГ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 46120,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 966,
+        "title": "БРИЛЬЯНТОВИЙ ЗЕЛЕНИЙ",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН ДЛЯ ЗОВНІШНЬОГО ЗАСТОСУВАННЯ, СПИРТОВИЙ",
+      "package": {
+        "id": 2,
+        "title": "ФЛ"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 52289,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "medicament": {
+        "id": 1021,
+        "title": "БУПІВАКАЇН",
+        "type": "0"
+      },
+      "dosage_form": "",
+      "custom_dosage_form": "РОЗЧИН 5 МГ/МЛ , 10 МЛ В АМПУЛАХ",
+      "package": {
+        "id": 4,
+        "title": "АМП"
+      },
+      "date": "2024-03-07",
+      "quantities": [
+        {
+          "hospital_category_id": 49115,
+          "value": 100
+        }
+      ]
+    }
+  ]
+}
